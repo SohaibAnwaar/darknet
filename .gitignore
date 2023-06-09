@@ -36,3 +36,6 @@ custom_setup/*
 models/darknet53.conv.74.1
 tmp_yolo/train_data/*
 
+tmp_yolo/train.txt
+tmp_yolo/val.txt
+tmp_yolo/backup/*
