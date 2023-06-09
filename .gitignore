@@ -25,3 +25,14 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+darknet53.conv.74
+libdarknet.a
+obj.data
+.gitignore
+obj.names
+yolov3-tiny.weights
+.vscode/settings.json
+custom_setup/*
+models/darknet53.conv.74.1
+tmp_yolo/train_data/*
+
